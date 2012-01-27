@@ -1,0 +1,3 @@
+To create the iOS application in this tutorial, you need Xcode 4.2. Xcode is Apple’s integrated development environment (or IDE) for both iOS and Mac OS X development. When you install Xcode on your Mac, you also get the iOS SDK, which includes the programming interfaces of the iOS platform.
+
+If you don’t have Xcode installed on your Mac, visit the iOS Dev Center
